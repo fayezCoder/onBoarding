@@ -14,9 +14,9 @@ This project is designed to provide a simple and customizable onboarding experie
 
 ## Screenshots
 
-![Screenshot](https://github.com/fayezCoder/onBoarding/blob/main/11.png) <!-- Replace with the actual path to your screenshot -->
+![Screenshot](https://github.com/fayezCoder/onBoarding/blob/main/11.png) <
 ![Screenshot](https://github.com/fayezCoder/onBoarding/blob/main/22.png) <
-![Screenshot](https://github.com/fayezCoder/onBoarding/blob/main/3.png) <
+
 
 ## Getting Started
 
